@@ -1,4 +1,6 @@
-# Olá, Bem vindo ao meu projeto de portfólio.
+<h1> Olá, Bem vindo ao meu projeto de portfólio. </h1>
+
+> Status do Projeto: Em desenvolvimento
 
 ![image](assets/foto-projeto.png)
 
